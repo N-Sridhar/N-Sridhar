@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/VGS.png" width="11%" alt="Logo" />
 </div>
 
-## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px alt="Waving GIF">, <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=%2302DF00&size=18&vCenter=true&width=280&height=20&lines=I'm+Sridhar+😊;I'm+a+Full+Stack+Developer+👨🏻‍💻" alt="Scrolling Text" />
+## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px alt="Waving GIF">, <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=%2302DF00&size=18&vCenter=true&width=280&height=25&lines=I'm+Sridhar+😊;I'm+a+Full+Stack+Developer+👨🏻‍💻" alt="Scrolling Text" />
 
 <h5 align="center">☺️ I'm Happy to Welcome You to My GitHub Profile‼️</h5>
 
@@ -10,8 +10,8 @@
 <div>
   <img src="https://img.shields.io/badge/🎂 D.O.B-18--Jun--1998-success" alt="D.O.B" />
   <img src="https://img.shields.io/badge/🎓 B.Tech-Information Technology-blueviolet" alt="Degree" />
-  <img src="https://img.shields.io/badge/🏡 Home Town-Tiruppur 🇮🇳-blue" alt="Home Town" />
-  <img src="https://img.shields.io/badge/🏢 Living In-Bangalore 🇮🇳-orange" alt="Living In" />
+  <img src="https://img.shields.io/badge/🏡 Home Town-Tiruppur-blue" alt="Home Town" />
+  <img src="https://img.shields.io/badge/🏢 Living In-Bangalore-orange" alt="Living In" />
 </div>
 <br />
 
@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-072F5F?style=flat&logo=kubernetes" alt="Kubernetes" />
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Adobe XD-1D2951?style=flat&logo=adobe-xd" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/Photoshop-1D2951?style=flat&logo=adobe-photoshop" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Illustrator-1D2951?style=flat&logo=adobe-illustrator" alt="Illustrator" />
   <img src="https://img.shields.io/badge/After Effects-1D2951?style=flat&logo=adobe-after-effects" alt="After Effects" />
@@ -67,7 +68,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Sridhar&theme=radical&layout=compact&langs_count=6" alt="Most Used Languages Stats" height="190rem" />
-  <img src="https://github-readme-stats.vercel.app/api?username=N-Sridhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Sridhar%27s%20GitHub%20Stats" alt="Commit Stats" align="right" height="190rem" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N-Sridhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Sridhar%27s%20GitHub%20Stats" alt="Commit Stats" height="190rem" />
 </div>
 <br />
 
