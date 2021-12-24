@@ -86,12 +86,12 @@
 ### <img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/handshake.gif" alt="handshake" width="7%" /> Connect with Me
 <br />
 <div>
-  <a href="https://sridhar-nallasamy.web.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/sridhar--nallasamy.web.app-505050?style=flat&logo=Google-Chrome&logoColor=white" alt="website" /></a>
-  <a href="https://www.linkedin.com/in/sridhar-nallasamy-781564160/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Sridhar Nallasamy-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nsridharbtech@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/nsridharbtech@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/sridhar.n3/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/sridhar.n3-DD2A7B?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.instagram.com/sridhar.n3/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/n.sridhar3-FEFC00?style=flat&logo=SnapChat&logoColor=black" alt="SnapChat" /></a>
-  <a href="https://www.facebook.com/sri.luzifer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/sri.luzifer-1778F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://sridhar-nallasamy.web.app"><img src="https://img.shields.io/badge/sridhar--nallasamy.web.app-505050?style=flat&logo=Google-Chrome&logoColor=white" alt="website" /></a>
+  <a href="https://www.linkedin.com/in/sridhar-nallasamy-781564160/"><img src="https://img.shields.io/badge/Sridhar Nallasamy-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nsridharbtech@gmail.com"><img src="https://img.shields.io/badge/nsridharbtech@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/sridhar.n3/"><img src="https://img.shields.io/badge/sridhar.n3-DD2A7B?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.snapchat.com/add/n.sridhar3/"><img src="https://img.shields.io/badge/n.sridhar3-FEFC00?style=flat&logo=SnapChat&logoColor=black" alt="SnapChat" /></a>
+  <a href="https://www.facebook.com/sri.luzifer"><img src="https://img.shields.io/badge/sri.luzifer-1778F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook" /></a>
 </div>
 <hr />
 <img src="https://komarev.com/ghpvc/?username=N-Sridhar&color=green" alt="view count" align="right" />
