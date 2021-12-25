@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/VGS.png" width="11%" alt="Logo" />
 </div>
 
-## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px alt="Waving GIF">, <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=%2302DF00&size=18&vCenter=true&width=280&height=25&lines=I'm+Sridhar+😊;I'm+a+Full+Stack+Developer+👨🏻‍💻" alt="Scrolling Text" />
+## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px alt="Waving GIF">, &nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=%2302DF00&size=18&vCenter=true&width=280&height=26&lines=I'm+Sridhar+😊;I'm+a+Full+Stack+Developer+👨🏻‍💻" alt="Scrolling Text" />
 
 <h5 align="center">☺️ I'm Happy to Welcome You to My GitHub Profile‼️</h5>
 
@@ -25,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/Techie.png" width="45%" align="right" />
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="" width="3%" /> &nbsp; Tech Stack & Tools
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="" width="5%" /> &nbsp; Tech Stack & Tools
 <br />
 
 <div>
@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Google Cloud-072F5F?style=flat&logo=google-cloud" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Docker-072F5F?style=flat&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-072F5F?style=flat&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Stripe-072F5F?style=flat&logo=stripe" alt="Stripe" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/Adobe XD-1D2951?style=flat&logo=adobe-xd" alt="Adobe XD" />
@@ -83,15 +84,15 @@
 
 <hr />
 
-### <img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/handshake.gif" alt="handshake" width="7%" /> Connect with Me
+### <img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/handshake.gif" alt="handshake" width="10%" /> Connect with Me
 <br />
 <div>
-  <a href="https://sridhar-nallasamy.web.app"><img src="https://img.shields.io/badge/sridhar--nallasamy.web.app-505050?style=flat&logo=Google-Chrome&logoColor=white" alt="website" /></a>
-  <a href="https://www.linkedin.com/in/sridhar-nallasamy-781564160/"><img src="https://img.shields.io/badge/Sridhar Nallasamy-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nsridharbtech@gmail.com"><img src="https://img.shields.io/badge/nsridharbtech@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/sridhar.n3/"><img src="https://img.shields.io/badge/sridhar.n3-DD2A7B?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.snapchat.com/add/n.sridhar3/"><img src="https://img.shields.io/badge/n.sridhar3-FEFC00?style=flat&logo=SnapChat&logoColor=black" alt="SnapChat" /></a>
-  <a href="https://www.facebook.com/sri.luzifer"><img src="https://img.shields.io/badge/sri.luzifer-1778F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://sridhar-nallasamy.web.app"><img src="https://img.shields.io/badge/sridhar--nallasamy.web.app-013220?style=flat&logo=Google-Chrome&logoColor=white" alt="website" />
+  <a href="https://www.linkedin.com/in/sridhar-nallasamy-781564160/"><img src="https://img.shields.io/badge/Sridhar Nallasamy-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:nsridharbtech@gmail.com"><img src="https://img.shields.io/badge/nsridharbtech@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.instagram.com/sridhar.n3/"><img src="https://img.shields.io/badge/sridhar.n3-DD2A7B?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.snapchat.com/add/n.sridhar3/"><img src="https://img.shields.io/badge/n.sridhar3-FEFC00?style=flat&logo=SnapChat&logoColor=black" alt="SnapChat" />
+  <a href="https://www.facebook.com/sri.luzifer"><img src="https://img.shields.io/badge/sri.luzifer-1778F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook" />
 </div>
 <hr />
 <img src="https://komarev.com/ghpvc/?username=N-Sridhar&color=green" alt="view count" align="right" />
