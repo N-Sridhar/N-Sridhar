@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/HTML-1D2951?style=flat&logo=html5" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1D2951?style=flat&logo=css3" alt="CSS" />
   <img src="https://img.shields.io/badge/SASS-1D2951?style=flat&logo=sass" alt="SASS" />
-  <img src="https://img.shields.io/badge/PUG-1D2951?style=flat&logo=materialui" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-1D2951?style=flat&logo=tailwind-css" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PUG-1D2951?style=flat&logo=pug" alt="PUG" />
 </div>
 <div>
@@ -98,4 +98,4 @@
 <hr />
 <img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/Earth.gif" width="20px" alt="world gif" align="right" />
 <img src="https://komarev.com/ghpvc/?username=N-Sridhar&color=green" alt="view count" align="right" />
-<h6>Last Edited: 31-Dec-2021</h6>
+<h6>Last Edited: 07-Jan-2022</h6>
