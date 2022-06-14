@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/VGS.png" width="11%" alt="Logo" />
 </div>
 
-## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px alt="Waving GIF">, &nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=%2302DF00&size=18&vCenter=true&width=280&height=26&lines=I'm+Sridhar+😊;I'm+a+Full+Stack+Developer+👨🏻‍💻" alt="Scrolling Text" />
+## Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px" alt="Waving GIF">, &nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=%2302DF00&size=18&vCenter=true&width=280&height=26&lines=I'm+Sridhar+😊;I'm+a+Full+Stack+Developer+👨🏻‍💻" alt="Scrolling Text" />
 
 <h5 align="center">☺️ I'm Happy to Welcome You to My GitHub Profile‼️</h5>
 
@@ -25,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/Techie.png" width="45%" align="right" />
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="" width="22px" /> &nbsp; Tech Stack & Tools
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="" height="22px" width="22px" /> &nbsp; Tech Stack & Tools
 <br />
 
 <div>
@@ -96,6 +96,6 @@
   <a href="https://www.facebook.com/sri.luzifer"><img src="https://img.shields.io/badge/sri.luzifer-1778F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook"></a>
 </div>
 <hr />
-<img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/Earth.gif" width="20px" alt="world gif" align="right" />
+<img src="https://raw.githubusercontent.com/N-Sridhar/N-Sridhar/main/utils/Earth.gif" height="20px" width="20px" alt="world gif" align="right" />
 <img src="https://komarev.com/ghpvc/?username=N-Sridhar&color=green" alt="view count" align="right" />
 <h6>Last Edited: 07-Jan-2022</h6>
